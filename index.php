@@ -16,7 +16,7 @@
         <p>This is the home page of the demo website.</p>
     </main>
     <footer>
-        <p>&copy; 2024 Demo Website</p>
+        <p>&copy; this is kunj worlds</p>
     </footer>
 </body>
 </html>
