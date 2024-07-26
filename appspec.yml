@@ -2,7 +2,8 @@ version: 0.0
 os: linux
 files:
   - source: /index.php
-    destination: /var/www/html
+    destination: /var/www/html/demo-ec2-pipeline
+
 hooks:
   AfterInstall:
     - location: scripts/install_nginx.sh
