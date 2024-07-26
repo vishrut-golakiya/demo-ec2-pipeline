@@ -16,7 +16,7 @@
         <p>This is the home page of the demo website.</p>
     </main>
     <footer>
-        <p>&copy; this is kunj worlds</p>
+        <p>this is nothig</p>
     </footer>
 </body>
 </html>
