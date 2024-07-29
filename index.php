@@ -16,7 +16,7 @@
         <p>This is the home page of the website</p>
     </main>
     <footer>
-        <p>this is just php demo</p>
+        <p>this is php-demo after install php from pipeline</p>
     </footer>
 </body>
 </html>
