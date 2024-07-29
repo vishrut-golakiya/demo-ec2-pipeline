@@ -30,3 +30,6 @@ server {
 EOL
 sudo cd /var/www/html
 sudo rm -rf index.nginx-debian.html
+
+
+sudo systemctl restart nginx
