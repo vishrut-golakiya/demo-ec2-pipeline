@@ -16,7 +16,7 @@
         <p>This is the home page of the demo website.</p>
     </main>
     <footer>
-        <p>this is just de,mo</p>
+        <p>this is just php demo</p>
     </footer>
 </body>
 </html>
