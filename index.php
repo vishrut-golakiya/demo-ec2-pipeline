@@ -13,7 +13,7 @@
     </header>
     <main>
         <h2>hi</h2>
-        <p>This is the home page of the demo website.</p>
+        <p>This is the home page of the website</p>
     </main>
     <footer>
         <p>this is just php demo</p>
